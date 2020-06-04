@@ -1,0 +1,53 @@
+gentamicin
+neomycin
+amikacin
+streptomycin
+kanamycin
+trimethoprim-sulfamethoxazole
+doxycycline
+minocycline
+tetracycline
+ tigecycline
+fluconazole
+voriconazole
+primaquine
+hydroxychloroquine
+phenytoin
+fosphenytoin
+carbamazepine
+midazolam
+alprazolam
+clonazepam
+diazepam
+phenobarbital
+magnesium sulfate
+lithium
+topiramate
+pentobarbital
+amiodarone
+atenolol
+lisinopril
+captopril
+enalapril
+benazepril
+losartan
+ valsartan
+aspirin
+edoxaban
+warfarin
+cortisone, flunisolide
+mycophenolate mofetil
+penicillamine
+methimazole, propylthiouracil, potassium iodide
+hydroxyurea
+zoledronate
+bismuth subsalicylate
+cyclophosphamide
+ibuprofen
+meloxicam
+tamoxifen
+primidone
+trimethadione
+lorazepam
+carbamazepene 
+imipramine

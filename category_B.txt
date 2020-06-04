@@ -1,0 +1,135 @@
+penicillin v
+penicillin g benzathine
+amoxicillin
+amoxicillin
+clavulanat
+ oxacillin
+ampicillin
+ ampicillin
+sulbactam
+ ticarcillin
+clavulanate
+ dicloxacillin
+cloxacillin, nafcillin
+ceftriaxone
+cephalexin
+cefazolin
+ cefepime
+ cefuroxime
+ceftaroline fosamil
+ cefdinir
+cefadroxil
+cefpodoxim
+ cefprozil
+ceftolozane
+tazobactam
+cefditoren
+clindamycin
+azithromycin
+erythromycin
+fidaxomicin
+spiramycin
+metronidazole
+daptomycin
+nitrofurantoin
+fosfomycin
+aztreonam
+meropenem
+ertapenem
+doripenem
+mupirocin
+quinupristin
+dalfopristin
+
+acyclovir
+famciclovir
+valacyclovir
+amphotericin b
+clotrimazole topical
+clotrimazole vulvovaginal
+terbinafine
+mefloquine
+permethrin
+emtricitabine
+tenofovir 
+truvada
+nitazoxanide
+praziquantel
+raxibacumab
+
+metoclopramide
+ondansetron
+dimenhydrinate
+famotidine
+lansoprazole
+pantoprazole
+lactulose
+psyllium
+loperamide
+dicyclomine
+ursodiol
+
+acetaminophen
+ketamine
+meperidine
+cyclobenzaprine
+indomethacin
+meclizine
+clozapine
+benztropine
+buspirone
+methylphenidate
+
+hydrochlorothiazide
+fenoldopam
+torsemide
+ethacrynic acid
+amiloride
+epoprostenol
+prostacyclin
+sildenafil
+dobutamine
+sotalol
+
+clopidogrel
+prasugrel
+eptifibatide
+ticlopidine
+tirofiban
+apixaban
+argatroban
+bivalirudin
+fondaparinux
+enoxaparin
+edta
+levocarnitine
+cyproheptadine
+idarucizumab
+n-acetylcysteine
+ipratropium
+budesonide
+ranitidine
+cimetidine
+metformin
+oxybutynin
+tamsulosin
+phenazopyridine
+bromocriptine
+glycopyrrolate
+montelukast
+desmopressin
+glucagon
+prilocaine
+propofol
+sodium polystyrene sulfonate
+sulfasalazine
+diphenhydramine 
+chlorpheneramine 
+metformin 
+sitagliptin 
+insulin
+naproxene 
+ibuprofen 
+oxycodone - prolonged use cat d 
+low molecular weight heparin 
+hpv

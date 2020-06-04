@@ -1,0 +1,47 @@
+nasal steroids
+ethosuximide 
+felbamate 
+gabapentine 
+lamotrigene 
+levateracitam 
+oxcarbamazepene 
+pregabalin
+tiagabin
+topiramate 
+zonesamid
+glyburide 
+glipizide
+glimipiride 
+pioglitazone 
+rosiglitazone 
+exenatide 
+pramlintide 
+detemer insulin
+butorphenol
+morphine
+hydromorphine
+fentanyl
+meperidine 
+hydrocodone 
+tramadol
+fexofenadine 
+loratidine 
+cetrizine 
+dextromethorphan 
+guaphenesine 
+phenyl ephrine 
+pseudoephidrine 
+clonidine 
+rofecoxib
+trifluperazine
+influenza
+meningococcal
+mmr
+pneumococcal 
+tdp
+varicella
+bcg
+rabies
+hepatitis a
+hepatitis b
+polio
